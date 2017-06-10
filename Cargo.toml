@@ -9,7 +9,7 @@ homepage = "https://github.com/mgattozzi/github-rs"
 documentation = "https://mgattozzi.github.io/github-rs"
 
 [dependencies]
-hyper = "~0.10.0"
+hyper = "~0.10.11"
 hyper-rustls= "~0.6.0"
 serde = "~0.8.22"
 serde_json = "~0.8.4"
